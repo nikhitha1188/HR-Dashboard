@@ -37,9 +37,14 @@ A modern and responsive HR Dashboard built using **Next.js**, **Tailwind CSS**, 
 
 ---
 
-## 📷 Demo Video
+## 📦 Technologies Used
 
-![Demo GIF](./screenshots/demo.mp4)
+- [Next.js](https://nextjs.org/) – React Framework for production-ready apps  
+- [React](https://reactjs.org/) – JavaScript library for building user interfaces  
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework  
+- [Zustand](https://zustand-demo.pmnd.rs/) or [Context API](https://reactjs.org/docs/context.html) – State management  
+- [Chart.js](https://www.chartjs.org/) or [Recharts](https://recharts.org/) – Data visualization libraries
+
 
 ## 🛠️ Setup Instructions
 
