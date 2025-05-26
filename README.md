@@ -17,6 +17,8 @@ A modern and responsive HR Dashboard built using **Next.js**, **Tailwind CSS**, 
 
 ## 📷 Screenshots
 
+![Login Screenshot](./screenshots/login.png)
+*Login Page*
 
 ![Dashboard Screenshot](./screenshots/dashboard.png)
 *Main HR Dashboard*
