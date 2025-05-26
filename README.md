@@ -23,8 +23,17 @@ A modern and responsive HR Dashboard built using **Next.js**, **Tailwind CSS**, 
 ![Dashboard Screenshot](./screenshots/dashboard.png)
 *Main HR Dashboard*
 
-![Employee List](./screenshots/employees.png)
+![Employee List](./screenshots/employee.png)
 *Employee Management Section*
+
+![Dark Theme](./screenshots/dark.png)
+*Dark Theme*
+
+![Bookmark](./screenshots/bookmark.png)
+*Employee Bookmark Section*
+
+![Analytics](./screenshots/analytics.png)
+*Analytics Section*
 
 ---
 
